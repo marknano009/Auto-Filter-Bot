@@ -9,9 +9,9 @@ class script(object):
 <b> @Malayalam_Movees</b>"""
 
 
-    ABOUT_MSG = """⭕️<b>My Name : Auto Filter Bot</b>
+    ABOUT_MSG = """⭕️<b>My Name : Movie Search Bot</b>
     
-⭕️<b>Creater :</b> @TroJanzHEX
+⭕️<b>Creater :</b> @Malayalam_Movees
 
 ⭕️<b>Language :</b> <code>Python3</code>
 
